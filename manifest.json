@@ -1,0 +1,9 @@
+{
+  "id": "better-pdf",
+  "name": "BetterPDF",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "A fuller PDF reader: annotations, two-page spreads, outline, and deep links from any page, heading or highlight into your notes.",
+  "author": "Ujjwal Vishwakarma",
+  "isDesktopOnly": false
+}
